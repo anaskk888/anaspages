@@ -239,7 +239,7 @@ label.book{
 	text-align:left;
 	position:absolute;
 	top: 7em;
-	left: 43.255em;
+	left: 57.255em;
 }
 .exp-devide-grid-right:before{
 	content:url(../images/sec-d.png)no-repeat 0px 0px;
@@ -271,7 +271,7 @@ label.book{
 	width:40%;
 	text-align:right;
 	position:absolute;
-	top:12em;
+	top:19em;
 	left: 5.8em;
 }
 .exp-devide-grid-left:before{
@@ -285,8 +285,8 @@ label.book{
 	width:40%;
 	text-align:left;
 	position:absolute;
-	top: 20em;
-	left: 43.255em;
+	top: 27em;
+	left: 57.255em;
 }
 .exp-devide-grid-rightb:before{
 	content:url(../images/sec-d.png)no-repeat 0px 0px;
